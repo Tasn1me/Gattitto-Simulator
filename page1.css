@@ -1,0 +1,17 @@
+body {
+    background-image: url("./cats-doodle-pattern-background_53876-100663.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    background-position: center;
+    background-position-y: top;
+}
+
+img {
+    margin-left: 500px;
+}
+
+div {
+    text-align: center;
+    margin-left: 50px;
+    text-size-adjust: 50px;
+}
